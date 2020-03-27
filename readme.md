@@ -1,13 +1,9 @@
 # Git Course
 
-Este é um repositorio para aprender o funcionamento do Git
+Este é um repositorio para aprender o funcionamento do Github
 
+Faz muito tempo qu nao faco uso do Git pois trabalheie sempre fora da area da computacao.
 
-Pode ser consultado: [williamjusten.com.br](http://williamjusten.com.br) para mais info.
-
-
-
-Estou gostando do Curso, por sinal, eu deveria me aprofundar mais 
-sobre há tempo. Mas nunca é tarde demais para ... =)
+Concorrendo a algumas vagas de TI, agora eh mais que obrigatorio mexer de novo com Github
 
 
